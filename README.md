@@ -3,7 +3,7 @@
 
 ## 🔺注意：
 本文件虽然以资源包形式下载，但是你要将它解压到版本文件夹下→resources文件夹下→aged文件夹中。
-路径：Aged/resources/aged/
+路径：.minecraft\version\Aged\resources\aged（有开版本版本隔离）
 
 -----
 
@@ -12,4 +12,4 @@ This is an add-on localization pack for [Aged Chinese Translation](https://modri
 
 ## 🔺Note:
 Although this file is downloaded as a resource pack, you need to extract it into the version folder → resources folder → aged folder.
-Path: Aged/resources/aged/
+Path: .minecraft\version\Aged\resources\aged
